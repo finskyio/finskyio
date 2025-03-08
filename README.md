@@ -6,7 +6,7 @@
 Books. Music. Math. Coffee. Cigarettes.
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,java,figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,java,figma,photoshop,vercel)](https://skillicons.dev)
 
 ## Inspiration:
 My [Inspiration](https://motherfuckingwebsite.com)
